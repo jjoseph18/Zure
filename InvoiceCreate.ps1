@@ -3,7 +3,7 @@
     Takes invoice information from a spreadsheet
 
 .DESCRIPTION
-    Extracts the text from an excel spreadsheet and formats it onto an html webpage
+    Extracts the text from an excel spreadsheet and formats it onto a webpage
 
 .EXAMPLE
     //
